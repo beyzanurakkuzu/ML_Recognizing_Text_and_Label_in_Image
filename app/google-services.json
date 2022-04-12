@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66081308411",
+    "project_id": "firabaseml",
+    "storage_bucket": "firabaseml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66081308411:android:54d8e31db5020789413a5e",
+        "android_client_info": {
+          "package_name": "com.beyzaakkuzu.ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66081308411-kol3tsvv4o5kq9n7j9qikbecupcdpad9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5VHbNJzSlSdB4Q0TkdQ2SRdnUdAD35HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66081308411-kol3tsvv4o5kq9n7j9qikbecupcdpad9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
